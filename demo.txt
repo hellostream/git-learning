@@ -1,7 +1,4 @@
 Hello world
-<<<<<<< HEAD
-=======
-ddd
->>>>>>> e3e9dcb19ccbdc056d9d4d05f973a64b18c1e167
 
-just for test
+
+i am the lastest
